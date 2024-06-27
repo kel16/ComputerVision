@@ -2,7 +2,7 @@
 
 This repository contains some of my solutions for the Computer Vision course at the University of Bonn.
 
-Technology stack: Python, OpenCV.
+Tech stack: Python, OpenCV.
 
 ## ActiveContour
 **Task description**
