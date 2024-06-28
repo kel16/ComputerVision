@@ -41,3 +41,8 @@ The goal of the algorithm is to minimize the total cost of the contour.
         <img src="output/2_result.png" alt="initial ball" width="300" height="auto">
     </div>
 </div>
+
+## Sources
+[1]: MA-INF 2201 - Computer Vision WS23/24 Lecture on Snakes
+
+[2]: Snakes: Active contour models, Kass, Witkin, & Terzopoulos, ICCV1987
